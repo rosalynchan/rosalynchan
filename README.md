@@ -151,7 +151,7 @@ SourceAgent | ValidationAgent | DriftAgent | ReconcileAgent
     Dashboard Output
 ```
 
-📂 **Repository:** [quant-etl-agent](https://github.com/rosalynchan/quant-etl-agent)
+📂 **Repository:** [quant-etl-agent](https://github.com/rosalynchan/quant-dev-portfolio/tree/main/ai-agents-quant-tools/quant-etl-agent)
 
 ---
 
@@ -188,7 +188,7 @@ This is where I'm most excited about AI's potential in trading technology.
 - Compliance & audit trails
 - Dashboard-driven trader workflows
 
-📂 **Repository:** [explainability-agent](https://github.com/rosalynchan/explainability-agent)
+📂 **Repository:** [explainability-agent](https://github.com/rosalynchan/quant-dev-portfolio/tree/main/ai-agents-quant-tools/explainability-agent)
 
 ---
 
@@ -250,7 +250,7 @@ This project demonstrates how all my trading tools experience converges into a m
         └─────────────────────────────────┘
 ```
 
-📂 **Repository:** [quantops-agent-engine](https://github.com/rosalynchan/quantops-agent-engine) 
+📂 **Repository:** [quantops-agent-engine](https://github.com/rosalynchan/quant-dev-portfolio/tree/main/ai-agents-quant-tools/quantops-agent-engine) 
 **Status:** In Active Development
 
 ---
