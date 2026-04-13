@@ -98,17 +98,15 @@ I built this as a **personal side project** to explore how AI Agents can solve r
 The system automates what previously required hours of trader investigation, directly improving trader efficiency and decision-making speed.
 
 ✅ **Tech Stack:**
-`OpenAI Agents` | `LangGraph` | `Pandas` | `SQLite` | `FastAPI` | `Jinja2` | `Plotly` *(React + TypeScript upgrade planned)*
+`OpenAI Agents` | `LangGraph` | `LangChain` | `Pandas` | `FastAPI` | `Jinja2` | `Plotly` *(React + TypeScript upgrade planned)*
 
 ✅ **Architecture:**
 ```
-User Query → Planner Agent
+User Query → PlannerAgent
              ↓
-    Ingestion | Cleaning | Microstructure
+    IngestionAgent → CleaningAgent → AnalysisAgent
              ↓
-    SQL Agent | Replay Agent | Reporting Agent
-             ↓
-    Evaluator Agent → Final Output
+         ReportingAgent → Final Output
 ```
 
 📂 **Repository:** [trading-data-agent](https://github.com/rosalynchan/trading-data-agent)
@@ -138,19 +136,19 @@ Every day at work, I see quant teams spend hours on manual data validation befor
 It's inspired by real challenges I face in my job — drift detection, reconciliation, data quality, but it's my own independent exploration of how AI Agents can solve these problems at scale. The result: traders and analysts get clean, validated data in minutes instead of hours, letting them focus on strategy instead of data hunting.
 
 ✅ **Tech Stack:**
-`LangGraph` | `Pandas` | `SQLite` | `FastAPI` | `Plotly` | `Jinja2` *(React + TypeScript upgrade planned)*
+`LangGraph` | `Pandas` | `Polars` | `SQLite` | `FastAPI` | `Plotly` | `Jinja2` *(React + TypeScript upgrade planned)*
 
 ✅ **Architecture:**
 ```
 Data Sources (S3, DB, API)
          ↓
-    Planner Agent
+    PlannerAgent
          ↓
-DataSource | Cleaning | Drift | Reconciliation Agents
+SourceAgent | ValidationAgent | DriftAgent | ReconcileAgent
          ↓
-    SQL Agent → Reporting Agent
+    SQLAgent → ReportingAgent
          ↓
-    Evaluator Agent → Dashboard Output
+    Dashboard Output
 ```
 
 📂 **Repository:** [quant-etl-agent](https://github.com/rosalynchan/quant-etl-agent)
@@ -232,20 +230,19 @@ This project demonstrates how all my trading tools experience converges into a m
 ```
                         API / Web UI
                              ↓
-                        Planner Agent
+                        PlannerAgent
                              ↓
         ┌────────────────────────────────────────┐
         │      Multi-Agent Orchestration Layer    │
         └────────────────────────────────────────┘
-           ↓        ↓         ↓         ↓         ↓
-      Ingestion  Cleaning  Microstructure  ETL  Drift
-        Agent      Agent      Agent      Agent   Agent
-           ↓        ↓         ↓         ↓         ↓
-        SQL Agent  Reconciliation Agent  Explain Agent
-           ↓        ↓         ↓         ↓         ↓
-                  Reporting Agent
-                         ↓
-                  Evaluator Agent
+           ↓              ↓                ↓
+      IngestionAgent  CleaningAgent  AnalysisAgent   (P1)
+           ↓              ↓                ↓
+    SourceAgent  ValidationAgent  DriftAgent  ReconcileAgent  SQLAgent  (P2)
+           ↓              ↓                ↓
+      RuleAgent  ClassifyAgent  ExplainAgent  FeedbackAgent   (P3)
+           ↓              ↓                ↓
+                  ReportingAgent
                          ↓
         ┌─────────────────────────────────┐
         │    Dashboard + API Output        │
@@ -319,10 +316,10 @@ Every project includes:
 - Human-in-the-loop capabilities
 - Production-ready error handling
 
-**Why Polars + DuckDB?**
+**Why Polars + SciPy?**
 - Fast, memory-efficient data processing
-- SQL interface for complex queries
-- Seamless integration with Arrow for interop
+- Statistical analysis for drift detection (KS test, distribution shifts)
+- Seamless integration with NumPy for numerical operations
 - Superior to pandas for large financial datasets
 
 ---
