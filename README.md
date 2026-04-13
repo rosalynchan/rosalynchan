@@ -109,7 +109,7 @@ User Query → PlannerAgent
          ReportingAgent → Final Output
 ```
 
-📂 **Repository:** [trading-data-agent](https://github.com/rosalynchan/trading-data-agent)
+📂 **Repository:** [trading-data-agent](https://github.com/rosalynchan/quant-dev-portfolio/tree/main/ai-agents-quant-tools/trading-data-agent)
 
 ---
 
