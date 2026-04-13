@@ -98,7 +98,7 @@ I built this as a **personal side project** to explore how AI Agents can solve r
 The system automates what previously required hours of trader investigation, directly improving trader efficiency and decision-making speed.
 
 ✅ **Tech Stack:**
-`OpenAI Agents` | `LangGraph` | `Pandas` | `SQLite` | `FastAPI` | `Jinja2 HTML`
+`OpenAI Agents` | `LangGraph` | `Pandas` | `SQLite` | `FastAPI` | `Jinja2` | `Plotly` *(React + TypeScript upgrade planned)*
 
 ✅ **Architecture:**
 ```
@@ -138,7 +138,7 @@ Every day at work, I see quant teams spend hours on manual data validation befor
 It's inspired by real challenges I face in my job — drift detection, reconciliation, data quality, but it's my own independent exploration of how AI Agents can solve these problems at scale. The result: traders and analysts get clean, validated data in minutes instead of hours, letting them focus on strategy instead of data hunting.
 
 ✅ **Tech Stack:**
-`LangGraph` | `Pandas` | `SQLite` | `FastAPI` | `Plotly`
+`LangGraph` | `Pandas` | `SQLite` | `FastAPI` | `Plotly` | `Jinja2` *(React + TypeScript upgrade planned)*
 
 ✅ **Architecture:**
 ```
@@ -183,7 +183,7 @@ It's my independent exploration of how LLMs and agents can make explainability s
 This is where I'm most excited about AI's potential in trading technology.
 
 ✅ **Tech Stack:**
-`OpenAI Agents` | `Pandas` | `Custom Rule Engine` | `Jinja2` | `Bootstrap HTML`
+`OpenAI Agents` | `Pandas` | `Custom Rule Engine` | `Jinja2` | `Plotly` *(React + TypeScript upgrade planned)*
 
 ✅ **Perfect for:**
 - Trading metric explainability
@@ -226,7 +226,7 @@ This project demonstrates how all my trading tools experience converges into a m
 **This is my vision for the next evolution of trading tools.**
 
 ✅ **Tech Stack:**
-`LangGraph` | `OpenAI Agents` | `FastAPI` | `Pandas` | `SQLite` | `Bootstrap HTML`
+`LangGraph` | `OpenAI Agents` | `FastAPI` | `Pandas` | `SQLite` | `React` | `TypeScript` | `Plotly`
 
 ✅ **Full Architecture Diagram:**
 ```
@@ -255,6 +255,75 @@ This project demonstrates how all my trading tools experience converges into a m
 
 📂 **Repository:** [quantops-agent-engine](https://github.com/rosalynchan/quantops-agent-engine) 
 **Status:** In Active Development
+
+---
+
+## 🎓 Education & Background
+
+**MSc Computing Science** | University of Glasgow, UK (Jan 2021 - Jan 2022)
+- Dissertation: *Automation in Quantitative Strategy Systems* , implemented quantitative trading strategies using PyAlgoTrade framework
+- Core courses: Data Science & Systems, Machine Learning & AI for Data Science, Information Visualization
+
+**B.Eng Software Engineering** | East China University of Technology, China
+- High-distinction grades: Software Engineering (95%), Data Structures & Algorithms (83%), Data Mining & Business Intelligence (89%)
+- Strong foundation in OOP, systems design, and data-driven applications
+
+**Financial Background:**
+- 3+ years at tier-1 investment bank (risk tools, funding optimization, explains engine)
+- Cross-functional experience: financial product management + technical leadership with trading desks
+
+---
+
+## 🔄 From Trading Tools to AI-Powered Tools
+
+My **3+ years building tools directly for traders and quant teams** gave me deep insight into:
+
+| Trader Pain Point | Tool I Built | How AI Agents Improve It |
+|-----------|--------------|------------------------|
+| **Data quality checks slow down analysis** | Data pipelines + validation | Automated agents detect + fix issues in real-time |
+| **Metric calculation takes time** | Calculation tools + workflows | Agent-driven orchestration processes in parallel |
+| **"Why did my metric change?" → hours of investigation** | Explainability dashboards | AI agents auto-generate answers + rationales instantly |
+| **Manual batch processing every day** | Data pipeline tools | Agents autonomously handle pipeline workflows |
+
+**The Insight:** Most trading tools today are built for *humans to manually operate*. My AI Agent projects are built for *humans to leverage intelligent agents*.
+
+The future of quant tools is **AI-augmented, not human-replaced**. Traders spend time on strategy, agents handle the operational work.
+
+---
+
+## 📚 Architecture & Design Documentation
+
+Every project includes:
+
+| Document | Purpose |
+|----------|---------|
+| **`/docs/architecture.md`** | Full system design, data flow, agent patterns |
+| **`/docs/api-reference.md`** | API endpoints, request/response examples |
+| **`/docs/design-decisions.md`** | Why we chose X over Y, trade-offs, learnings |
+| **`/docs/agent-patterns.md`** | Planner/Worker/Evaluator breakdown |
+| **`README.md`** | Quick start, local setup, example usage |
+
+---
+
+## 💡 Key Technical Decisions
+
+**Why Multi-Agent Architecture?**
+- **Separation of concerns:** Each agent specializes in one domain
+- **Composability:** Reuse agents across projects
+- **Explainability:** Clear reasoning trail for each decision
+- **Resilience:** If one agent fails, others continue
+
+**Why LangGraph + OpenAI Agents?**
+- Stateful DAG execution for complex workflows
+- Built-in tool-calling for SQL, file I/O, API calls
+- Human-in-the-loop capabilities
+- Production-ready error handling
+
+**Why Polars + DuckDB?**
+- Fast, memory-efficient data processing
+- SQL interface for complex queries
+- Seamless integration with Arrow for interop
+- Superior to pandas for large financial datasets
 
 ---
 
