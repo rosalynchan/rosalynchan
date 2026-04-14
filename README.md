@@ -31,21 +31,8 @@ I specialize in **delivering high-impact tools** that trading desks depend on, o
 
 **My Edge:**
 - Deep understanding of **what traders actually need** not theoretical infrastructure, but practical tools
-- Full-stack expertise: **Python backend + Enaml/Atom and React/TypeScript frontend + AG-Grid + Plotly + KDB+/q**
+- Full-stack expertise: **Python backend + Enaml/Atom frontend + AG-Grid + Plotlyq**
 - Now expanding into **AI Agents & LLM-powered automation** to make trading tools even smarter
-
----
-
-## 🧠 Technical Expertise
-
-| Domain | Skills |
-|--------|---------|
-| **Frontend** | Enaml (declarative Python UI framework) • Atom (reactive data model) • AG-Grid • Plotly • React + TypeScript |
-| **Backend & Data** | Python (primary) • Pandas • Polars • PySpark • SQL • KDB+/q • C++ (learning) |
-| **AI Agent Systems** | Multi-agent orchestration • LangGraph • OpenAI Agents SDK • Tool-calling • LLM integration |
-| **Quant Engineering** | Risk formula engines • Data pipelines • Drift detection • Explains engine (predicate rules) • Market data processing |
-| **Software Engineering** | Test-Driven Development • OOP • Git • Linux • Jira • Scrum |
-| **Databases & Tools** | SQLite • PostgreSQL • Blob storage • Cloud (Azure/S3) • CI/CD concepts |
 
 ---
 
