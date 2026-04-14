@@ -21,7 +21,7 @@
 
 I'm a **Quant & Data Pipeline Developer** with **3+ years of hands-on experience** building front-office analytics, trading data applications, and quantitative tools directly for traders and quant teams at tier-1 investment banks.
 
-I specialize in **delivering high-impact tools** that trading desks depend on — optimizing data workflows, reducing manual work, and enabling faster decision-making in fast-paced trading environments.
+I specialize in **delivering high-impact tools** that trading desks depend on, optimizing data workflows, reducing manual work, and enabling faster decision-making in fast-paced trading environments.
 
 **Current Focus at Investment Bank:**
 - 🎯 **Quantitative Tool Development**: Built configurable calculation engines and analytical tools supporting trading desk workflows with dynamic formula evaluation and scalable metric generation
@@ -97,7 +97,7 @@ I'm passionate about **building market data pipelines and trading tools that tra
 - ✅ 3+ years building practical tools traders depend on daily
 - ✅ Deep understanding of what traders actually need vs. what engineers think they need
 - ✅ Now adding **AI Agent + LLM engineering** to amplify the impact of those tools
-- ✅ Trading desks are moving toward AI — I want to lead that transformation
+- ✅ Trading desks are moving toward AI, I want to lead that transformation
 
 ---
 
