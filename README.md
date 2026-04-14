@@ -19,7 +19,9 @@
 
 ## About Me
 
-I'm a **Quant Developer** with **3+ years of hands-on experience** building front-office analytics, trading data applications, and quantitative tools directly for traders and quant teams at tier-1 investment banks.
+Front-office focused Quant Developer with experience building trading tools and data systems for pricing, risk, and PnL workflows. 
+
+My work centers on developing scalable market data pipelines, configurable pricing and risk engines, and interactive applications that support traders in daily decision-making. I have hands-on experience integrating multi-vendor data sources (e.g. Bloomberg, Markit), implementing dynamic formula evaluation frameworks, and delivering reliable, production-grade systems.
 
 I specialize in **delivering high-impact tools** that trading desks depend on, optimizing data workflows, reducing manual work, and enabling faster decision-making in fast-paced trading environments.
 
