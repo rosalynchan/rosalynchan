@@ -1,7 +1,7 @@
 # 👩‍💻 Rosalyn Chen
 ## Quant Developer × AI Agent Engineer
 
-> **Building intelligent tools for traders and quant teams. Specializing in data pipelines, real-time analytics, and AI-powered automation.**
+> **Building intelligent tools for traders and quant teams. Specializing in data pipelines, analytics, and AI-powered automation.**
 
 ---
 
