@@ -17,17 +17,17 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a **Quant & Data Pipeline Developer** with **3+ years of hands-on experience** building front-office analytics, trading data applications, and quantitative tools directly for traders and quant teams at tier-1 investment banks.
 
 I specialize in **delivering high-impact tools** that trading desks depend on, optimizing data workflows, reducing manual work, and enabling faster decision-making in fast-paced trading environments.
 
 **Current Focus at Investment Bank:**
-- 🎯 **Quantitative Tool Development**: Built configurable calculation engines and analytical tools supporting trading desk workflows with dynamic formula evaluation and scalable metric generation
-- 💰 **Front-Office Platform Architecture**: Architected end-to-end Python web applications with Enaml + Atom frontend, processing output of model data, reducing analysis time from hours to minutes
-- 📊 **Data Quality & Explainability**: Developed rule-based explainability systems for metrics, with interactive dashboard interfaces and automated rule creation, **reduced daily manual investigation time by 20-30 minutes per analyst**
-- 🔄 **Trading Data Pipelines**: Optimized data pipelines for daily batch processing with focus on reliability, scalability, and trader usability
+- **Quantitative Tool Development**: Built configurable calculation engines and analytical tools supporting trading desk workflows with dynamic formula evaluation and scalable metric generation
+- **Front-Office Platform Architecture**: Architected end-to-end Python web applications with Enaml + Atom frontend, processing output of model data, reducing analysis time from hours to minutes
+- **Data Quality & Explainability**: Developed rule-based explainability systems for metrics, with interactive dashboard interfaces and automated rule creation, **reduced daily manual investigation time by 20-30 minutes per analyst**
+- **Trading Data Pipelines**: Optimized data pipelines for daily batch processing with focus on reliability, scalability, and trader usability
 
 **My Edge:**
 - Deep understanding of **what traders actually need** not theoretical infrastructure, but practical tools
@@ -36,7 +36,7 @@ I specialize in **delivering high-impact tools** that trading desks depend on, o
 
 ---
 
-## 🌟 AI Agent × Quant Portfolio
+## AI Agent × Quant Portfolio
 
 Four personal projects built in spare time, applying AI Agents to real trading workflow problems I encounter daily at work.
 
@@ -70,27 +70,27 @@ P4:                    ████████████ (12w, starts after P
 
 ---
 
-## 💼 What I'm Looking For
+## What I'm Looking For
 
 I'm passionate about **building market data pipelines and trading tools that traders and quants actually use every day**, and now adding **AI Agent intelligence** to make those tools even more powerful.
 
-🎯 **Ideal Opportunities:**
+**Ideal Opportunities:**
 - **Quant Developer / Trading Tools Engineer** at hedge funds, asset managers, prop trading firms
 - **AI Agent / AI Infrastructure** roles in fintech or trading technology
 - **Trading Technology** teams building next-generation quant platforms
 - **AI × Trading** startups building intelligent trading infrastructure
 
 **Why I'm Making This Transition:**
-- ✅ 3+ years building practical tools traders depend on daily
-- ✅ Deep understanding of what traders actually need vs. what engineers think they need
-- ✅ Now adding **AI Agent + LLM engineering** to amplify the impact of those tools
-- ✅ Trading desks are moving toward AI, I want to lead that transformation
+- 3+ years building practical tools traders depend on daily
+- Deep understanding of what traders actually need vs. what engineers think they need
+- Now adding **AI Agent + LLM engineering** to amplify the impact of those tools
+- Trading desks are moving toward AI, I want to lead that transformation
 
 ---
 
-## ✍️ Articles & Thought Leadership
+## Articles & Thought Leadership
 
-📝 **Coming soon on LinkedIn & Medium:**
+**Coming soon on LinkedIn & Medium:**
 
 - *How Multi-Agent Systems Transform QuantOps Workflows*
 - *Trading Data Quality: The Agent-Powered Approach*
@@ -99,7 +99,7 @@ I'm passionate about **building market data pipelines and trading tools that tra
 
 ---
 
-## 🔗 Connect
+## Connect
 
 | Platform | Link | Purpose |
 |---|---|---|
