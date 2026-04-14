@@ -33,7 +33,7 @@ I specialize in **delivering high-impact tools** that trading desks depend on, o
 
 **My Edge:**
 - Deep understanding of **what traders actually need** not theoretical infrastructure, but practical tools
-- Full-stack expertise: **Python backend + Enaml/Atom frontend + AG-Grid + Plotlyq**
+- Full-stack expertise: **Python backend + Enaml/Atom frontend + AG-Grid + Plotly**
 - Now expanding into **AI Agents & LLM-powered automation** to make trading tools even smarter
 
 ---
