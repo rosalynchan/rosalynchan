@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a **Quant & Data Pipeline Developer** with **3+ years of hands-on experience** building front-office analytics, trading data applications, and quantitative tools directly for traders and quant teams at tier-1 investment banks.
+I'm a **Quant Developer** with **3+ years of hands-on experience** building front-office analytics, trading data applications, and quantitative tools directly for traders and quant teams at tier-1 investment banks.
 
 I specialize in **delivering high-impact tools** that trading desks depend on, optimizing data workflows, reducing manual work, and enabling faster decision-making in fast-paced trading environments.
 
