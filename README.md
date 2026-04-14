@@ -1,13 +1,13 @@
 # 👩‍💻 Rosalyn Chen
-## Quant Developer × AI Agent Engineer
+## Quant Developer
 
-> **Building intelligent tools for traders and quant teams. Specializing in data pipelines, analytics, and AI-powered automation.**
+> **I build the production-grade market data pipline and tools that allow pricing, risk and trading decision to be made safely**
 
 ---
 
 <div align="center">
 
-📍 **London, UK** | 💼 **Quant Tools & AI Development** | 🚀 **Open to Opportunities**
+📍 **London, UK** | 💼 **Quant Tools** | 🚀 **Open to Opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rosalyn--Chen-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rocn/)
 [![GitHub](https://img.shields.io/badge/GitHub-@rosalynchan-181717?style=flat&logo=github)](https://github.com/rosalynchan)
