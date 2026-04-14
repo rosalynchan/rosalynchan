@@ -30,7 +30,7 @@ I specialize in **delivering high-impact tools** that trading desks depend on �
 - 🔄 **Trading Data Pipelines**: Optimized data pipelines for daily batch processing with focus on reliability, scalability, and trader usability
 
 **My Edge:**
-- Deep understanding of **what traders actually need** — not theoretical infrastructure, but practical tools
+- Deep understanding of **what traders actually need** not theoretical infrastructure, but practical tools
 - Full-stack expertise: **Python backend + Enaml/Atom and React/TypeScript frontend + AG-Grid + Plotly + KDB+/q**
 - Now expanding into **AI Agents & LLM-powered automation** to make trading tools even smarter
 
