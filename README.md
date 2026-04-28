@@ -113,6 +113,8 @@ I'm passionate about **building market data pipelines and trading tools that tra
 ---
 
 <div align="center">
+  
+<img width="1279" height="1706" alt="81df8a37d2a5dd94983183173dde3cf3" src="https://github.com/user-attachments/assets/52cc18c9-7f15-4a13-82d9-c55ff824d7d5" />
 
 **Rosalyn Chen** | London, UK
 **Quant Developer × AI Agent Engineer**
