@@ -83,7 +83,7 @@ I'm passionate about **building market data pipelines and trading tools that tra
 - **AI × Trading** startups building intelligent trading infrastructure
 
 **Why I'm Making This Transition:**
-- 3+ years building practical tools traders depend on daily
+- 4+ years building practical tools traders depend on daily
 - Deep understanding of what traders actually need vs. what engineers think they need
 - Now adding **AI Agent + LLM engineering** to amplify the impact of those tools
 - Trading desks are moving toward AI, I want to lead that transformation
